@@ -1,4 +1,4 @@
-swift-airline-reservation-system
+Air-India-flight-reservation-system
 ================================
 
-Swift Airline Reservation System has been built using PHP &amp; MySQL as a part of 7th semester project for Software Engineering (CS0401)
+Air India Flight Reservation System integrating Artificial Intelligence has been built using PHP &amp; MySQL as a part of Final year project for Computer Science  Engineering (CS0401).
